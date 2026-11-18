@@ -175,3 +175,7 @@ tr.ar[hidden],#ll .lp[hidden]{display:none}.lp.pen{border-left:5px solid #DC3545
 
 /* koreksi & ekspor */
 .row[hidden]{display:none}.kor{color:#6F42C1;font-weight:600}.dn{flex-wrap:wrap}.dn input{flex:1 1 140px}
+
+/* laporan pengelola */
+.dn.wr{flex-wrap:wrap}.qf{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 6px}.qf button{min-height:28px;padding:2px 10px;font-size:12px;border-radius:99px;background:#fff;border:1px dashed #94A3B8;color:var(--mut)}.qf button:hover{border-color:var(--acc);color:var(--acc)}.lr{display:block;margin-top:6px}
+.fl select{flex:0 1 190px}
